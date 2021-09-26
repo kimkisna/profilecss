@@ -1,0 +1,32 @@
+body{
+    background-color: #F6E6CB;
+}
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color: #E7D4B5;
+} 
+h1{
+    text-align: center; 
+    font-family: cursive;
+    background-color: #A0937D;
+} 
+h4{
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h5{ 
+    text-align: center; 
+    font-family: Aclonica; 
+    font-weight: normal;
+}
+h2{ 
+    text-align: center;
+    background-color: #E7D4B5;
+} 
+.table-skills{
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: #E3CDC1;
+}
